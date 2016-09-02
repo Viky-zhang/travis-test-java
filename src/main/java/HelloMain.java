@@ -9,6 +9,6 @@ import org.joda.time.DateTime;
 public class HelloMain {
     public static void main(String[] args) {
         DateTime dt = new DateTime();
-        System.out.println("Viky Time is: " + dt);
+        System.out.println("Viky Time is : " + dt);
     }
 }
